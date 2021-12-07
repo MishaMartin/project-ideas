@@ -8,7 +8,7 @@ Create a new Github repository called “project-ideas”.
 On your machine, create a new file called ideas.txt.
 
 ## Brainstorm
-Generare at least 5 compelling project ideas for web applications you would like to create. The web app should have a database, a back end, and a front end with at last 3-5 interactive web form features. You can feature data visualizations, searches, maps, or other interactive elements (or not).
+Generate at least 5 compelling project ideas for web applications you would like to create. The web app should have a database, a back end, and a front end with at last 3-5 interactive web form features. You can feature data visualizations, searches, maps, or other interactive elements (or not).
 
 During this stage, your “idea” can be fairly general and informal. You don’t need to provide a lot of detail for each idea– a single bullet point for each idea should be sufficient.
 
