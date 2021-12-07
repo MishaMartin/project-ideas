@@ -1,6 +1,9 @@
 5 Project Ideas:
 
 1.  Instagram Photo Downloader:
+    
+    This would be an app that automatically downloads all the Instagram images of your friends. As Instagram is growing everyday, this is one of the useful python projects and it is quite similar to the above command line app as this app will use your credentials to open your account and then look for your friend’s ID and download their photos. This app would be handy when people want to delete pages and save just the images.
+
         - Database:
         - Backend:
         - Frontend:
@@ -13,7 +16,12 @@
     Notes:
 
 
-2.  Project Idea:
+2.  Expense Tracker:
+
+    As you can guess by the name, an expense tracker is a software application that lets you keep track of your expenses, and even analyze the expenses. In this python project, you will build a simple expense tracker that can keep track of the user’s expenses.
+
+    Expense tracker is one of the trending python projects which should also be able to perform statistical analysis to give accurate insights to users on their expenses so that they can plan their expenses better. You can use PySimpleGUI to create the interface for this application, and even Python libraries like Pandas and Matplotlib can be handy tools for the project.
+
         - Database:
         - Backend:
         - Frontend:
@@ -26,7 +34,10 @@
     Notes:
 
 
-3.  Project Idea:
+3.  Content Aggregator:
+
+    The internet is filled with websites, articles, and information. When we want to find something, it is tough to go through each of them. For this use, you can create a content aggregator that automatically searches popular websites and looks for relevant content and then complies with all the content and lets the user choose which content they want. It is very much like Google but unbiased. And this is the perfect idea for your next python project!
+
         - Database:
         - Backend:
         - Frontend:
@@ -39,7 +50,11 @@
     Notes:
 
 
-4.  Project Idea:
+4.  Video compiler:
+
+    (Ryan's site)
+    This would be a site that allows users to log in, upload any videos or photos and then have a professional compile them. There should also be an option to do it yourselfwith a basic editor(if there's something I can use for that) 
+
         - Database:
         - Backend:
         - Frontend:
@@ -52,16 +67,23 @@
     Notes:
 
 
-5.  Project Idea:
-        - Database:
-        - Backend:
-        - Frontend:
+5.  Personal Journal:
+
+    Create a personal journal. Log each entry, include pictures, time stamps, etc. Share with your friends or keep to yourself by making it public or private. 
+
+        - Database: Postgresql
+        - Backend: Python
+        - Frontend: Flask
     Features:
-        - list 1
-        - list 2
-        - list 3
-        - list 4
-        - list 5
+        - login/create account
+        - create journal entries
+        - view journal entries
+        - delete journal entries
+        - upload pictures to journal entries
+    Additional features if there's time:
+        - share journal entry
+        - make journal entry public or private to friends
+        - allow users to add friends on the site
+
     Notes: 
 
-    
