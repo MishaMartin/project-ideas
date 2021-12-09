@@ -4,15 +4,13 @@
     
     This would be an app that automatically downloads all the Instagram images of your friends. As Instagram is growing everyday, this is one of the useful python projects and it is quite similar to the above command line app as this app will use your credentials to open your account and then look for your friend’s ID and download their photos. This app would be handy when people want to delete pages and save just the images.
 
-        - Database:
-        - Backend:
-        - Frontend:
+        - Database:SQLite3
+        - Backend:Python
+        - Frontend:Flask
     Features:
-        - list 1
-        - list 2
-        - list 3
-        - list 4
-        - list 5
+        - login/create account
+        - download images
+        - share with others
     Notes:
 
 
@@ -22,48 +20,47 @@
 
     Expense tracker is one of the trending python projects which should also be able to perform statistical analysis to give accurate insights to users on their expenses so that they can plan their expenses better. You can use PySimpleGUI to create the interface for this application, and even Python libraries like Pandas and Matplotlib can be handy tools for the project.
 
-        - Database:
-        - Backend:
-        - Frontend:
+        - Database: SQLite3
+        - Backend: Python
+        - Frontend: Flask/CSS
     Features:
-        - list 1
-        - list 2
-        - list 3
-        - list 4
-        - list 5
+        - add expense
+        - delete expense
+        - log in/create account
+        - view overview of monthly expenses
+        - add your monthly budget amount
     Notes:
+        - additonal features would include: adding your own subsection, change the theme, pin login, give a pie chart or bar chart of spending by category.
 
+3.  Plant share site:
 
-3.  Content Aggregator:
+    Social media site that allows users to post about their rare plants, connect with users in the area and sell plants.
 
-    The internet is filled with websites, articles, and information. When we want to find something, it is tough to go through each of them. For this use, you can create a content aggregator that automatically searches popular websites and looks for relevant content and then complies with all the content and lets the user choose which content they want. It is very much like Google but unbiased. And this is the perfect idea for your next python project!
-
-        - Database:
-        - Backend:
-        - Frontend:
+        - Database:SQLite3
+        - Backend:Python
+        - Frontend:Flask
     Features:
-        - list 1
-        - list 2
-        - list 3
-        - list 4
-        - list 5
+        - login/create account
+        - add friends
+        - search friends
+        - create post
+        - comment/like post
     Notes:
-
+        - this might be too big of a project for right now.
 
 4.  Video compiler:
 
     (Ryan's site)
     This would be a site that allows users to log in, upload any videos or photos and then have a professional compile them. There should also be an option to do it yourselfwith a basic editor(if there's something I can use for that) 
 
-        - Database:
-        - Backend:
-        - Frontend:
+        - Database: SQLite3
+        - Backend: Python
+        - Frontend: Flask
     Features:
-        - list 1
-        - list 2
-        - list 3
-        - list 4
-        - list 5
+        - user account
+        - upload videos
+        - download videos
+        
     Notes:
 
 
@@ -71,9 +68,9 @@
 
     Create a personal journal. Log each entry, include pictures, time stamps, etc. Share with your friends or keep to yourself by making it public or private. 
 
-        - Database: Postgresql
+        - Database: Postgresql or SQLite3?
         - Backend: Python
-        - Frontend: Flask
+        - Frontend: Flask/CSS/JS
     Features:
         - login/create account
         - create journal entries
