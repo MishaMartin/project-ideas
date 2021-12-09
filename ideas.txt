@@ -74,13 +74,14 @@
     Features:
         - login/create account
         - create journal entries
-        - view journal entries
+        - view/search journal entries
         - delete journal entries
         - upload pictures to journal entries
     Additional features if there's time:
         - share journal entry
         - make journal entry public or private to friends
         - allow users to add friends on the site
+        - create a "family email" template to download and share or maybe email directly from there?
 
     Notes: 
 
